@@ -14,7 +14,8 @@ Tecnologías Utilizadas
     Matplotlib y Seaborn: Se utilizarán Matplotlib y Seaborn para la visualización de gráficos y representaciones visuales de los datos.
     Numpy: Se empleará Numpy para realizar operaciones numéricas y cálculos estadísticos.
     Wordcloud: Se utilizará la biblioteca Wordcloud para generar nubes de palabras clave a partir de los títulos de los cursos.
-    Power Bi: Se creará un dashboard interactivo utilizando esta herramienta para visualizar los resultados del análisis.
+    Power Bi: Se creará un dashboard interactivo utilizando esta herramienta para visualizar los datos de los datasets.
+    
 
 ## Fuentes de Datos
 
