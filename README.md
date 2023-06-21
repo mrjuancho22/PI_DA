@@ -21,7 +21,7 @@ Tecnologías Utilizadas
 Se utilizarán los siguientes conjuntos de datos para el análisis:
 
     Coursera_courses.csv: Contiene información sobre cursos ofrecidos en Coursera.
-    Coursera_reviews.csv: Proporciona reseñas y comentarios de estudiantes sobre los cursos de Coursera.
+    Coursera_reviews.parquet: Proporciona reseñas y comentarios de estudiantes sobre los cursos de Coursera.
     edx_courses.csv: Incluye información sobre los cursos ofrecidos en la plataforma edX.
     udemy_courses.csv: Contiene datos sobre cursos de la plataforma Udemy.
 
@@ -31,7 +31,7 @@ El análisis y la visualización de estos datos permitirán a la empresa compren
 
 ## Organización del Proyecto
 
-- datasets: Carpeta con varios datasets usados para el eda y dashboard
+- datasets: Carpeta con varios datasets usados para el eda y dashboard, se encontrará también el archivo etl_coursera_course.ipynb, donde se detalla las transfromaciones hechas sobre el documento coursera_reviews.parquet
 - documentacion: Carpeta donde se almacena el readme original los metricas de cómo hacer el proyecto
 - dashboard.pbix: Dashboard empleado para mostrar los resultados del analisis y kpi solicitados
 - eda.ipynb: Archivho tipo Jupyter Notebook donde sea hace el eda de las diversas fuentes de datos
