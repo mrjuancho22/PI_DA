@@ -12,11 +12,17 @@ Para monitorear la eficacia de los objetivos de la empresa, se solicita la visua
 ## Tecnologías Utilizadas
 
 -Python: Se utilizará Python como lenguaje de programación principal para realizar el análisis de datos y crear visualizaciones.
+
 -Pandas: Se empleará la biblioteca Pandas para la manipulación y limpieza de datos.
+
 -Matplotlib y Seaborn: Se utilizarán Matplotlib y Seaborn para la visualización de gráficos y representaciones visuales de los datos.
+
 -Numpy: Se empleará Numpy para realizar operaciones numéricas y cálculos estadísticos.
+
 -Wordcloud: Se utilizará la biblioteca Wordcloud para generar nubes de palabras clave a partir de los títulos de los cursos.
+
 -Power Bi: Se creará un dashboard interactivo utilizando esta herramienta para visualizar los datos de los datasets.
+
     
 
 ## Fuentes de Datos
