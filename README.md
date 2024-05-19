@@ -9,14 +9,14 @@ En los MOOCs (cursos masivos abiertos y online), se ha generado una creciente co
 Para monitorear la eficacia de los objetivos de la empresa, se solicita la visualización de un KPI (tasa de conversión de inscritos gratuitos a inscritos pagados) y se propone establecer otros tres KPIs adicionales basados en el análisis de los datos. Además, se requiere una presentación de demostración del dashboard junto con los análisis y conclusiones pertinentes, con una duración máxima de 10 minutos.
 
 
-- Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
-    Python: Se utilizará Python como lenguaje de programación principal para realizar el análisis de datos y crear visualizaciones.
-    Pandas: Se empleará la biblioteca Pandas para la manipulación y limpieza de datos.
-    Matplotlib y Seaborn: Se utilizarán Matplotlib y Seaborn para la visualización de gráficos y representaciones visuales de los datos.
-    Numpy: Se empleará Numpy para realizar operaciones numéricas y cálculos estadísticos.
-    Wordcloud: Se utilizará la biblioteca Wordcloud para generar nubes de palabras clave a partir de los títulos de los cursos.
-    Power Bi: Se creará un dashboard interactivo utilizando esta herramienta para visualizar los datos de los datasets.
+-Python: Se utilizará Python como lenguaje de programación principal para realizar el análisis de datos y crear visualizaciones.
+-Pandas: Se empleará la biblioteca Pandas para la manipulación y limpieza de datos.
+-Matplotlib y Seaborn: Se utilizarán Matplotlib y Seaborn para la visualización de gráficos y representaciones visuales de los datos.
+-Numpy: Se empleará Numpy para realizar operaciones numéricas y cálculos estadísticos.
+-Wordcloud: Se utilizará la biblioteca Wordcloud para generar nubes de palabras clave a partir de los títulos de los cursos.
+-Power Bi: Se creará un dashboard interactivo utilizando esta herramienta para visualizar los datos de los datasets.
     
 
 ## Fuentes de Datos
