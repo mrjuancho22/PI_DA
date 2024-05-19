@@ -7,7 +7,9 @@ Este proyecto tiene como objetivo realizar un análisis de mercado de cursos onl
 En los MOOCs (cursos masivos abiertos y online), se ha generado una creciente competencia entre diversas plataformas educativas. Esta startup de tecnología ha adquirido conjuntos de datos de competidores para analizarlos y obtener conclusiones valiosas.
 
 Para monitorear la eficacia de los objetivos de la empresa, se solicita la visualización de un KPI (tasa de conversión de inscritos gratuitos a inscritos pagados) y se propone establecer otros tres KPIs adicionales basados en el análisis de los datos. Además, se requiere una presentación de demostración del dashboard junto con los análisis y conclusiones pertinentes, con una duración máxima de 10 minutos.
-Tecnologías Utilizadas
+
+
+- Tecnologías Utilizadas
 
     Python: Se utilizará Python como lenguaje de programación principal para realizar el análisis de datos y crear visualizaciones.
     Pandas: Se empleará la biblioteca Pandas para la manipulación y limpieza de datos.
